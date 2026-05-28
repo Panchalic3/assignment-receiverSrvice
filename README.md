@@ -37,7 +37,7 @@ src/main/java/com/assignment/receiver/
 
 ### 1. Clone the repository
 
-git clone <your-repo-url>
+git clone https://github.com/Panchalic3/assignment-receiverSrvice
 cd receiver-service
 
 ### 2. Build the project
