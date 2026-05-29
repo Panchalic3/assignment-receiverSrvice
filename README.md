@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-Receiver Service is a Spring Boot application responsible for receiving event data from the Consumer and retry Service via REST
+Receiver Service is a Spring Boot application responsible for receiving event data from the Consumer-and-retry Service via REST
 API and persisting it into the database. It acts as the final processing layer in the event-driven system.
 
 ---
